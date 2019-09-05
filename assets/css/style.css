@@ -1,0 +1,83 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Mukta Malar', sans-serif;
+	font-weight: 600;
+}
+
+
+body {
+	background-color:rgb(221, 116, 67);
+}
+
+.imglogo {
+	max-width: 50%;
+	max-height: auto;
+	padding: 10px;
+	
+	
+}
+
+.img1 {
+	background: rgb(216, 216, 216);
+	width: 80%;
+	height: auto;
+	display:block; 
+	margin:auto;
+	border: 1px solid rgb(133, 132, 132);
+	box-shadow: 10px 10px rgb(170, 63, 63);
+	border-radius: 10px;
+}
+
+
+
+.container-fluid {
+    background-color: rgb(49, 49, 51);
+	color: rgb(207, 204, 204);
+	padding: 24px;
+}
+
+
+
+.caja1{
+	background-color: rgb(49, 49, 51);
+    color: rgb(197, 191, 191);
+	padding: 5%;
+	border: 1px solid rgb(133, 132, 132);
+	box-shadow: 10px 10px rgb(170, 63, 63);
+	border-radius: 10px;
+
+}
+
+h1 {
+	color: rgb(228, 228, 228);
+	padding: 20px;
+	text-align: initial
+
+}
+
+h2 {
+	background-color: rgb(221, 116, 67);
+    color: rgb(228, 228, 228);
+	padding: 5%;
+	border: 1px solid rgb(133, 132, 132);
+	box-shadow: 5px 5px rgb(77, 66, 66);
+	border-radius: 10px;
+
+}
+
+h4 {
+	text-align: center;
+	background-color: rgb(87, 83, 78);
+    color: rgb(228, 228, 228);
+	padding: 5%;
+	border: 1px solid rgb(133, 132, 132);
+	box-shadow: 5px 5px rgb(77, 66, 66);
+	border-radius: 10px;
+
+}
+
+a {
+	color: rgb(221, 116, 67);
+}
